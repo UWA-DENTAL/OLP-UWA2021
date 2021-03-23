@@ -1,5 +1,5 @@
 # Computer-assisted machine-learning algorithm can reliably identify oral lichen planus cases 
-[Figure 1.pdf](https://github.com/UWA-DENTAL/OLP-UWA2021/files/6187143/Figure.1.pdf)
+![DIAGRAM](https://user-images.githubusercontent.com/81205303/112099558-b7591000-8bde-11eb-8a3b-91df0d5381aa.png)
 An automated artificial neural network as a machine-learning method was trained to identify and quantify mononuclear cells and granulocytes within the inflammatory infiltrates in digitalized hematoxylin and eosin microscopic slides. 
 # Software specifications
 QuPath version: 0.2.3, Java version: 14.0.2, Operating system: Windows 10  -  10.0
