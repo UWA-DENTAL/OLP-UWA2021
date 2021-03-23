@@ -1,0 +1,2 @@
+setImageType('BRIGHTFIELD_H_AND_E');
+setColorDeconvolutionStains('{"Name" : "H&E modified 28 Oct", "Stain 1" : "Hematoxylin", "Values 1" : "0.47482 0.85151 0.22243 ", "Stain 2" : "Eosin", "Values 2" : "0.16212 0.88555 0.43534 ", "Background" : " 252 246 251 "}');
