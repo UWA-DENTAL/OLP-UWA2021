@@ -9,3 +9,4 @@ QuPath version: 0.2.3, Java version: 14.0.2, Operating system: Windows 10  -  10
 # calculate features
 (1) add smoothened features: 5um, 15um, 25um, 50um (2) compute intensity features: resolution: 2um, tile diameter: 5um, optical density sum: yes, hematoxylin: yes, eosin: yes, residual: yes, red: yes, green: yes, blue: yes, hue: yes, saturation: yes, brightness: yes, mean: yes, sd: yes, min & max: yes, median: yes, compute haralick features: yes, haralick distance: 1 (3) add shape features: area, length, circularity, solidity, max diameter, min diameter, N/C ration
 # apply OLP-UWA2021 classifier 
+![artificial neural network (ANN-MLP)](https://user-images.githubusercontent.com/81205303/112100290-dad08a80-8bdf-11eb-9edc-df903338e4c4.jpg)
